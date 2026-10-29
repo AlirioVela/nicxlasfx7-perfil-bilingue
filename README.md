@@ -15,7 +15,7 @@ A public web page with six sections:
 |---|---|
 | Home | Edgar Alirio Vela Vásquez, Systems engineer in training |
 | About | I am a young Systems Engineering student passionate about technology and software development. I am currently learning programming languages, databases, web development, and other technologies related to the field, while building projects and improving my skills every day. |
-| Skills | Your technical and professional skills |
+| Skills | Basic knowledge of Java, JavaScript, HTML, CSS, and SQL. Currently learning programming and database management as a Systems Engineering student. |
 | Resume | Your education and your experience |
 | Projects | The projects you have built |
 | Contact | How people can reach you |
